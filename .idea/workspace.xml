@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb5fd68c-4318-4186-a42a-bf611ef91a04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Praca Dyplomowa P.Filipczak.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt_Przed_Refactoringiem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object_pattern/pages/main_page_pkn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object_pattern/pages/search_standard_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object_pattern/pages/standard_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object_pattern/test/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page_object_pattern/test/test_standard_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
