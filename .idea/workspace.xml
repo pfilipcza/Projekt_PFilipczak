@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb5fd68c-4318-4186-a42a-bf611ef91a04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/page_object_pattern/before_refactoring/Projekt_Przed_Refactoringiem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_object_pattern/before_refactoring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt_Przed_Refactoringiem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_repo_merito" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -31,29 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in simple_window.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_standard_search.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Etap1_uruchomienie_przeglądarki.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Projekt_Przed_Refactoringiem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Projekt_versja_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_page_pkn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search_standard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search_standard_page.executor&quot;: &quot;Run&quot;,
-    &quot;Python.simple_window.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programy/Python/Praca Dyplomowa P.Filipczak&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in simple_window.py.executor": "Run",
+    "Python tests.Python tests in test_standard_search.py.executor": "Run",
+    "Python.Etap1_uruchomienie_przeglądarki.executor": "Run",
+    "Python.Projekt_Przed_Refactoringiem.executor": "Run",
+    "Python.Projekt_versja_1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_page_pkn.executor": "Run",
+    "Python.search_standard.executor": "Run",
+    "Python.search_standard_page.executor": "Run",
+    "Python.simple_window.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Programy/Python/Praca Dyplomowa P.Filipczak",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programy\Python\Praca Dyplomowa P.Filipczak" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programy\Python\Praca Dyplomowa P.Filipczak\page_object_pattern\Przed_refactoringiem" />
+      <recent name="D:\Programy\Python\Praca Dyplomowa P.Filipczak\projekt_PFilipczak_merito" />
       <recent name="D:\Programy\Python\Praca Dyplomowa P.Filipczak\page_object_pattern" />
     </key>
   </component>
